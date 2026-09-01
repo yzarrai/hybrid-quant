@@ -8,8 +8,8 @@ A regime-switching quantitative trading system and research framework for MetaTr
 
 The system comprises two synchronized layers:
 
-- `mql5/` — Production execution layer in MQL5. Rule-based, deterministic, tick-managed.
-- `python/` — Quantitative research layer in Python (`hquant`). Scale-free feature engineering, walk-forward regime classifier with embargo, and event-driven backtester simulating the ratcheting equity floor.
+- `mql5/`  Production execution layer in MQL5. Rule-based, deterministic, tick-managed.
+- `python/`  Quantitative research layer in Python (`hquant`). Scale-free feature engineering, walk-forward regime classifier with embargo, and event-driven backtester simulating the ratcheting equity floor.
 
 ```
 hybridquant/
