@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+*.csv
+!sample_*.csv
+*.ex5
+*.ex4
+.DS_Store
+.ipynb_checkpoints/
+run_a.txt
+run_b.txt
